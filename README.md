@@ -1,6 +1,6 @@
 
 <h1 align="left">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand Medium-Light Skin Tone" width="50" height="50" /> What's up? </h1>
-<img src="https://private-user-images.githubusercontent.com/74038190/290079079-231375ce-58a3-4c3b-85c8-44ea51d1318f.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzA0ODg5MzAsIm5iZiI6MTczMDQ4ODYzMCwicGF0aCI6Ii83NDAzODE5MC8yOTAwNzkwNzktMjMxMzc1Y2UtNThhMy00YzNiLTg1YzgtNDRlYTUxZDEzMThmLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDExMDElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMTAxVDE5MTcxMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTBmNTExNDM0ODk5ZTU0ZDFmOTY3NzMzOWQ0NTg4MjYzY2EwN2FkY2Y2NjU0N2IzOTgyODU1MDkzMTg1Zjk5ZTMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.HZxfLikn4UtTYUaxlKxMiN-VB19Kd9vP4JaK0S3zO_M" width="500">
+<img src="#" width="500">
 <br><br>
 
 <p align="left"> Salve! My name is Aishwarya thakur, I'm a Tech Enthusiast and a cat lover from India </p>
