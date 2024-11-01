@@ -1,9 +1,9 @@
 
 <h1 align="left">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand Medium-Light Skin Tone" width="50" height="50" /> What's up? </h1>
-<img src="https://github.com/user-attachments/assets/a24521a7-9aa5-49bd-bcd8-36060f3078ce" width="500">
+<img src="https://tenor.com/view/coding-gif-25183725" width="500">
 <br><br>
 
-<p align="left"> Salve! My name is Aishwarya thakur, I'm a Tech Enthusiast, guitar player( Ammature. if i may say) and a cat lover from India </p>
+<p align="left"> Salve! My name is Aishwarya thakur, I'm a Tech Enthusiast and a cat lover from India </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 <br><br>
