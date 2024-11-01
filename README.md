@@ -1,14 +1,7 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Document</title>
-</head>
-<body>
 
-<h1 align="left">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand Medium-Light Skin Tone" width="50" height="50" /> What's up? how you doin </h1>
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="500">
+<h1 align="left">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand Medium-Light Skin Tone" width="50" height="50" /> What's up? </h1>
+<img src="![image](https://github.com/user-attachments/assets/a24521a7-9aa5-49bd-bcd8-36060f3078ce)
+" width="500">
 <br><br>
 
 <p align="left"> Salve! My name is Aishwarya thakur, I'm a Tech Enthusiast, guitar player( Ammature. if i may say) and a cat lover from India </p>
@@ -62,8 +55,6 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/aishwarya2005thakur/de_me/output/snake.svg" alt="Snake animation"/>
-  
-</body>
-</html>
+
 
 ###
