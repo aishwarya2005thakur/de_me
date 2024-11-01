@@ -53,7 +53,7 @@
 <br><br>
 <br clear="both">
 
-!(https://github.com/<seu aishwarya2005thakur>/<seu aishwarya2005thakur>/blob/output/github-contribution-grid-snake.svg)
+<img src="https://github.com/<seu aishwarya2005thakur>/<seu aishwarya2005thakur>/blob/output/github-contribution-grid-snake.svg">
 
 
 ###
