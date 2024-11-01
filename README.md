@@ -53,7 +53,7 @@
 <br><br>
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/aishwarya2005thakur/de_me/output/snake.yaml" alt="Snake animation"/>
+<img src="https://raw.githubusercontent.com/aishwarya2005thakur/aishwarya2005thakur/output/snake.svg" alt="Snake animation"/>
 
 
 ###
