@@ -53,7 +53,7 @@
 <br><br>
 <br clear="both">
 
-<img src="![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)" alt="#"/>
+![snake animation](https://github.com/<seu aishwarya2005thakur>/<seu aishwarya2005thakur>/blob/output/github-contribution-grid-snake2.svg)
 
 
 ###
