@@ -61,6 +61,5 @@
 <br clear="both">
 
 ![snake game ](https://github.com/<aishwarya2005thakur>/<aishwarya2005thakur>/blob/output/github-contribution-grid-snake2.svg")
->>>>>>> 8aa287e789ec49a3a059c9634cd728909d1a5cfc
 
 ###
