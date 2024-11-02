@@ -9,13 +9,10 @@
 
 <h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="45" align="center"><span><b> Github Analytics</b></span></h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aishwarya2005thakur&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
- 
-  <img src="https://streak-stats.demolab.com?user=aishwarya2005thakur&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 
 ![Aishwarya's GitHub stats](https://github-readme-stats.vercel.app/api?username=aishwarya2005thakur&show_icons=true&count_private=true&theme=react&bg_color=0d1117&layout=compact&hide_border=true)
 ![Aishwarya's Github streak](https://streak-stats.demolab.com/?user=aishwarya2005thakur&theme=react&background=0d1117&layout=compact&hide_border=true)
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aishwarya2005thakur&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+![Aishwarya's most used languages]("https://github-readme-stats.vercel.app/api/top-langs?username=aishwarya2005thakur&theme=react-dark&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true")
 ![Aishwarya's Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aishwarya2005thakur&theme=react-dark&hide_border=true)
 ![snake game ](https://github.com/<aishwarya2005thakur>/<aishwarya2005thakur>/blob/output/github-contribution-grid-snake.svg")
 
