@@ -60,9 +60,9 @@
 ![Aishwarya's GitHub stats](https://github-readme-stats.vercel.app/api?username=aishwarya2005thakur&show_icons=true&count_private=true&theme=react&bg_color=0d1117&layout=compact&hide_border=true)
 ![Aishwarya's Github streak](https://streak-stats.demolab.com/?user=aishwarya2005thakur&theme=react&background=0d1117&layout=compact&hide_border=true)
 ![Aishwarya's Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aishwarya2005thakur&theme=react-dark&hide_border=true)
-
+![snake game ](https://github.com/<aishwarya2005thakur>/<aishwarya2005thakur>/blob/output/github-contribution-grid-snake2.svg")
 </div>
 
-<img src="https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg">
+
 
 ###
