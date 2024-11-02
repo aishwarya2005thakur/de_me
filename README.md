@@ -10,8 +10,13 @@
 <h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="45" align="center"><span><b> Github Analytics</b></span></h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aishwarya2005thakur&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aishwarya2005thakur&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=aishwarya2005thakur&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+
+![aishwarya2005thakur's Stats](https://github-readme-stats.vercel.app/api?username=aishwarya2005thakur&theme=radical&show_icons=true&hide_border=true&count_private=true)
+![aishwarya2005thakur's Streak](https://github-readme-streak-stats.herokuapp.com/?user=aishwarya2005thakur&theme=radical&hide_border=true)
+![aishwarya2005thakur's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aishwarya2005thakur&theme=radical&show_icons=true&hide_border=true&layout=compact)
+![Aishwarya's Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aishwarya2005thakur&theme=rogue&hide_border=true)
+
+
 </div>
 
 <br><br>
@@ -55,6 +60,7 @@
 <br><br>
 <br clear="both">
 
-<img src="https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg">
+![snake game ](https://github.com/<aishwarya2005thakur>/<aishwarya2005thakur>/blob/output/github-contribution-grid-snake2.svg")
+>>>>>>> 8aa287e789ec49a3a059c9634cd728909d1a5cfc
 
 ###
