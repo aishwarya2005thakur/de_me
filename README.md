@@ -15,8 +15,6 @@
 ![aishwarya2005thakur's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aishwarya2005thakur&theme=radical&show_icons=true&hide_border=true&layout=compact)
 ![Aishwarya's Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aishwarya2005thakur&theme=rogue&hide_border=true)
 
-
->>>>>>> 8aa287e789ec49a3a059c9634cd728909d1a5cfc
 </div>
 
 <br><br>
@@ -45,7 +43,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" height="50" alt="mongodb logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" height="50" alt="node js logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="50" alt="node js logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="50" alt="vs logo" />
   <img width="12" />
