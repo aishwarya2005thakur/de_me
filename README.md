@@ -9,7 +9,6 @@
 
 <h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="45" align="center"><span><b> Github Analytics</b></span></h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aishwarya2005thakur&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
 
 ![aishwarya2005thakur's Stats](https://github-readme-stats.vercel.app/api?username=aishwarya2005thakur&theme=radical&show_icons=true&hide_border=true&count_private=true)
 ![aishwarya2005thakur's Streak](https://github-readme-streak-stats.herokuapp.com/?user=aishwarya2005thakur&theme=radical&hide_border=true)
@@ -17,6 +16,7 @@
 ![Aishwarya's Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aishwarya2005thakur&theme=rogue&hide_border=true)
 
 
+>>>>>>> 8aa287e789ec49a3a059c9634cd728909d1a5cfc
 </div>
 
 <br><br>
