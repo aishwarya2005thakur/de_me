@@ -65,6 +65,8 @@
 <br><br>
 <br clear="both">
 
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" height="20" wodth="700" />
+
 ![snake game ](https://github.com/<aishwarya2005thakur>/<aishwarya2005thakur>/blob/output/github-contribution-grid-snake2.svg")
 
 ###
